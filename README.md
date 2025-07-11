@@ -36,6 +36,19 @@ Hello there! 👋 I'm Raziul Islam Rabby, a dedicated Flutter Developer with a s
 
 🌐 Active learner and contributor in the dev community — always open to sharing knowledge, feedback, and code.
 
+### 🐍 My Coding Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+<p align="center">
+  <em>
+    Just like the snake evolves with each move, I grow with every line of code, solving problems, and creating impactful solutions!
+  </em>
+</p>
+
+
 ✨ My mantra: "Beautiful apps aren't just designed — they're engineered with Flutter."
 ---
 
@@ -89,26 +102,14 @@ Hello there! 👋 I'm Raziul Islam Rabby, a dedicated Flutter Developer with a s
 
 ### 📈 GitHub Contribution Graph
 
-<p>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurMohammad56&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="GitHub Contribution Graph" />
+<p align="center">
+  <a href="https://github.com/Rabby-551/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rabby-551&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="GitHub Contribution Graph" />
   </a>
 </p>
 
+
 ---
-### 🐍 My Coding Journey
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-<p align="center">
-  <em>
-    Just like the snake evolves with each move, I grow with every line of code, solving problems, and creating impactful solutions!
-  </em>
-</p>
 
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
