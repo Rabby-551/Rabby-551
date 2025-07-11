@@ -41,7 +41,7 @@ Hello there! 👋 I'm Raziul Islam Rabby, a dedicated Flutter Developer with a s
 
 ### 🚀 Professional Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,android,firebase,html,css,c,mongodb,git,figma,=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,postman,firebase,html,css,c,mongodb,git,figma,=9" alt="Skills" />
 </p>
 
 ### 🌐 Connect with Me
@@ -56,29 +56,34 @@ Hello there! 👋 I'm Raziul Islam Rabby, a dedicated Flutter Developer with a s
   <a href="mailto:rabby.raziul@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/NurMohammad56" target="_blank">
+  <a href="https://github.com/Rabby-551" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Stats & Activity</h3>
 
 <div align="center">
-  <a href="https://github.com/NurMohammad56">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=NurMohammad56&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+  <a href="https://github.com/Rabby-551">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rabby-551&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&rank_icon=github" alt="Rabby's GitHub Stats" width="400" />
   </a>
-  <a href="https://github.com/NurMohammad56">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NurMohammad56&theme=transparent&hide_border=true" alt="GitHub Streak" width="400" />
+  <a href="https://github.com/Rabby-551">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Rabby-551&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
   </a>
+  <br/><br/>
+ <a href="https://github.com/Rabby-551">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rabby-551&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages" width="400" />
+</a>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Flutter-%23327CFF?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://github.com/NurMohammad56">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurMohammad56&langs_count=8&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="400" />
-  </a>
-</p>
+
 
 ---
 
