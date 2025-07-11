@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=24&center=true&vCenter=true&width=500&height=45&lines=FlutterDveloper+%7C+MobileAppDeveloper;Lifelong+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<img src="https://i.ibb.co/KX5mqgX/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" height="230px">
+<img src="https://raw.githubusercontent.com/Rabby-551/Rabby-551/refs/heads/main/cover%20image.jpeg" height="230px">
 
 ---
 
@@ -28,7 +28,7 @@ Hello there! 👋 I'm Raziul Islam Rabby, a dedicated Flutter Developer with a s
 
 💬 Love discussing Dart, UI/UX design patterns, API integration, Firebase, and responsive design techniques.
 
-📬 Reach me at nurmohammad0605@gmail.com.
+📬 Reach me at rabby.raziul@gmail.com.
 
 🎯 Fun fact: I genuinely enjoy solving complex UI challenges and turning beautiful designs into pixel-perfect, high-performance apps — it's like art meets logic!
 
@@ -41,7 +41,7 @@ Hello there! 👋 I'm Raziul Islam Rabby, a dedicated Flutter Developer with a s
 
 ### 🚀 Professional Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,express,redis,nginx,firebase,nodejs,nestjs,mongodb,git,linux,figma=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,android,firebase,html,css,c,mongodb,git,figma,=9" alt="Skills" />
 </p>
 
 ### 🌐 Connect with Me
