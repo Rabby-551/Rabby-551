@@ -15,24 +15,28 @@
 ---
 
 ### <h1>🌟 Introduction</h1>
+Hello there! 👋 I'm Raziul Islam Rabby, a dedicated Flutter Developer with a strong grasp of Dart and cross-platform mobile development. With over 1 years of experience building performant, responsive, and beautiful mobile apps, I specialize in crafting seamless user experiences, integrating APIs, and managing complex state with solutions like GetX and Provider.
 
-Hello there! 👋 I'm Nur Mohammad, a dedicated Backend Developer with a strong command of the MERN Stack, particularly focused on Node.js and MongoDB. With over 2 years of experience building scalable and efficient backend systems, I specialize in crafting robust APIs, managing complex data relationships, and implementing secure authentication systems.
+🚀 I'm driven by curiosity and continuous learning—always exploring the latest Flutter features, UI/UX trends, and architectural best practices. From designing custom widgets to building scalable mobile solutions for startups and enterprise clients, I bring precision, performance, and passion to every project.
 
-🚀 I'm driven by curiosity and continuous learning—always exploring the latest backend technologies, best practices, and architectural patterns. From building secure authentication flows to leading server-side logic for multiplayer games and enterprise platforms, I approach every project with precision and passion.
-
-🚀 Feel free to reach out for collaboration or projects! 
+📱 Feel free to reach out for collaboration or projects!
 
 ---
 
-### 🧑💻 Status And Info
-- 🌱 Currently mastering Node.js and Nest.js, diving deeper into Microservices Architecture, and exploring Enterprise Backend Solutions.
-- 💬 Love discussing JavaScript, TypeScript, API Design, Authentication Systems, and Scalable Backend Architectures.
-- 📬 Reach me at nurmohammad0605@gmail.com.
-- 🎯 Fun fact: I genuinely enjoy debugging complex issues and building full backend systems from scratch — it's like solving puzzles for fun!
-- 💡 Passionate about applying the latest backend technologies in real-world applications, from game platforms to enterprise services.
-- 🌐 Active learner and contributor in the dev community — always open to knowledge sharing and collaboration.
-- ✨ My mantra: "Strong backends build seamless experiences."
+🧑💻 Status And Info
+🌱 Currently mastering Flutter animations, advanced state management (GetX, Riverpod), and exploring clean architecture for scalable mobile apps.
 
+💬 Love discussing Dart, UI/UX design patterns, API integration, Firebase, and responsive design techniques.
+
+📬 Reach me at nurmohammad0605@gmail.com.
+
+🎯 Fun fact: I genuinely enjoy solving complex UI challenges and turning beautiful designs into pixel-perfect, high-performance apps — it's like art meets logic!
+
+💡 Passionate about building real-world cross-platform apps that are fast, maintainable, and delightful to use.
+
+🌐 Active learner and contributor in the dev community — always open to sharing knowledge, feedback, and code.
+
+✨ My mantra: "Beautiful apps aren't just designed — they're engineered with Flutter."
 ---
 
 ### 🚀 Professional Skills
@@ -43,13 +47,13 @@ Hello there! 👋 I'm Nur Mohammad, a dedicated Backend Developer with a strong 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://bd.linkedin.com/in/nurmohammad56" target="_blank">
+  <a href="https://www.linkedin.com/in/raziul-islam-rabby-b6330b339" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.facebook.com/hasan.rabby.16/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="mailto:nurmohammad0605@gmail.com">
+  <a href="mailto:rabby.raziul@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/NurMohammad56" target="_blank">
