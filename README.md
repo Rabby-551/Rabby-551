@@ -54,7 +54,7 @@ Hello there! 👋 I'm Raziul Islam Rabby, a dedicated Flutter Developer with a s
 
 ### 🚀 Professional Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,postman,firebase,html,css,c,mongodb,git,figma,=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,postman,androidstudio,firebase,html,css,c,mongodb,git,figma,=9" alt="Skills" />
 </p>
 
 ### 🌐 Connect with Me
